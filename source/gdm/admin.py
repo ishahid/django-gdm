@@ -1,6 +1,6 @@
 from django.contrib import admin
-from models.tree import Person, Family
-from models.timeline import Activity, EventType, Event
+from gdm.models.tree import Person, Family
+from gdm.models.timeline import Activity, EventType, Event
 
 
 class PersonAdmin(admin.ModelAdmin):
