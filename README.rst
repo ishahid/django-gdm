@@ -16,7 +16,7 @@ Quick start
            'gdm',
        )
 
-2. Run ``python manage.py migrate`` to create the polls models.
+2. Run ``python manage.py migrate`` to create the GDM models.
 
 3. Include the GDM models in your project like this:
 
@@ -25,4 +25,4 @@ Quick start
        from gdm.models.tree import Person, Family
 
 4. Start the development server and visit http://127.0.0.1:8000/admin/
-   to create a persons and families (you'll need the Admin app enabled).
+   to create persons and families (you'll need the Admin app enabled).
