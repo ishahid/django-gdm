@@ -1,7 +1,7 @@
 Genealogy Data Models
 =====================
 
-*GDM* is a set of simple Django models for Genealogy based data
+*GDM* is a set of simple Django models for genealogy based data
 structures (family trees).
 
 Quick start

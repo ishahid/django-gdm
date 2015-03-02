@@ -3,7 +3,7 @@
 [![django-gdm-v](https://img.shields.io/pypi/v/django-gdm.svg)](https://pypi.python.org/pypi/django-gdm/)
 [![django-gdm-bl](https://img.shields.io/badge/license-MIT-blue.svg)](https://pypi.python.org/pypi/django-gdm/)
 
-_GDM_ is a set of simple Django models for Genealogy based data
+_GDM_ is a set of simple Django models for genealogy based data
 structures (family trees).
 
 ## Quick start
