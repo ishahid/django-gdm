@@ -1,4 +1,4 @@
 # The requirement file to be used on local development system
 -r base.txt
-coverage==3.7
+coverage==4.4.2
 django-debug-toolbar==1.9.1
